@@ -1,7 +1,7 @@
 
 # Data Cleaning using Pandas
 
-The following Python script demonstrates how to clean data using the pandas library in Python. This script performs various data cleaning operations on a dataset named "Customer Call List.xlsx".
+The following Python script demonstrates how to clean data using the pandas library in Python. This script performs various data cleaning operations on a dataset named "Customer Call List.xlsx". I have used Jupyter Notebook to create this project. 
 
 ### Steps:
 
