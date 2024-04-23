@@ -1,4 +1,4 @@
-```markdown
+
 # Data Cleaning using Pandas
 
 The following Python script demonstrates how to clean data using the pandas library in Python. This script performs various data cleaning operations on a dataset named "Customer Call List.xlsx".
@@ -91,6 +91,6 @@ df.reset_index(drop=True, inplace=True)
 ```
 
 The script provides a comprehensive example of how to clean and preprocess data using pandas, making it suitable for further analysis.
-```
+
 
 This README section provides a clear explanation of the data cleaning process using pandas, making it easier for users to understand and replicate the steps.
